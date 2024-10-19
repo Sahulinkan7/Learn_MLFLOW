@@ -13,3 +13,7 @@ conda activate venv/
 ```bash
 pip install -r requirements.txt
 ```
+
+```bash
+mlflow ui
+```
